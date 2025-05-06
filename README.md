@@ -2,7 +2,7 @@
   <img src="docs/logo.png" alt="Bangladesh NID OCR Logo" width="200"/>
 </p>
 
-# 🇧🇩 Bangladesh NID OCR System
+# Bangladesh NID OCR System
 
 A complete OCR and face recognition solution for **Bangladeshi National ID cards**, built with **Tesseract**, **OpenCV**, and **InsightFace**. This system supports:
 
@@ -30,11 +30,10 @@ A complete OCR and face recognition solution for **Bangladeshi National ID cards
 
 ## 🛠️ Technologies Used
 
-- `.NET / C#` or `Python` *(depending on your backend)*
+- `Python` *(depending on your backend)*
 - Tesseract OCR
 - OpenCV
 - InsightFace (ONNX / PyTorch)
-- Docker *(optional)*
 - REST APIs
 
 ---

@@ -24,7 +24,7 @@ A complete OCR and face recognition solution for **Bangladeshi National ID cards
 - Image preprocessing with **OpenCV**
 - Supports **Bangla and English** text
 - Async and high performance
-- Easily integrable into .NET or Python backend
+- Easily integrable into Python backend
 
 ---
 

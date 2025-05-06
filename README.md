@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/logo.png" alt="Bangladesh NID OCR Logo" width="200"/>
+</p>
+
 # 🇧🇩 Bangladesh NID OCR System
 
 A complete OCR and face recognition solution for **Bangladeshi National ID cards**, built with **Tesseract**, **OpenCV**, and **InsightFace**. This system supports:
@@ -59,5 +63,15 @@ This project is open-source under the [MIT License](LICENSE).
 
 ## 🤝 Connect
 
-Made with ❤️ for Bangladesh by **Asiqur Rahman**  
+Made with ❤️ for Bangladesh by **Md. Asiqur Rahman Khan**  
 🔗 [LinkedIn – linkedin.com/in/asiqur-rahman](https://www.linkedin.com/in/asiqur-rahman)
+
+## ⚠️ Note
+
+> 🧠 The backend for this demo is running on a **Raspberry Pi 4**, which may occasionally be offline due to resource limits.  
+> 📲 **Need help or notice the service is down?**  
+> Feel free to [message me on WhatsApp](https://wa.me/8801521394572) anytime or scan the QR on the live site.
+<p align="center">
+  <img src="docs/whatsapp_qr.png" alt="WhatsApp Contact QR" width="150"/>
+</p>
+---

@@ -73,4 +73,3 @@ Made with ❤️ for Bangladesh by **Md. Asiqur Rahman Khan**
 <p align="center">
   <img src="docs/whatsapp_qr.png" alt="WhatsApp Contact QR" width="150"/>
 </p>
----

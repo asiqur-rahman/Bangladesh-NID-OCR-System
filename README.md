@@ -33,7 +33,7 @@ A complete OCR and face recognition solution for **Bangladeshi National ID cards
 - `Python` *(depending on your backend)*
 - Tesseract OCR
 - OpenCV
-- InsightFace (ONNX / PyTorch)
+- InsightFace (ONNX)
 - REST APIs
 
 ---

@@ -56,7 +56,9 @@ This project is currently maintained by **Md. Asiqur Rahman Khan** as a solo dev
 
 ## 📌 License
 
-This project is open-source under the [MIT License](LICENSE). If you find it helpful, you are always welcome to buy me a coffee.
+This project is open-source under the [MIT License](LICENSE).
+
+**? If you find it helpful, consider buying me a coffee.**
 
 ---
 
@@ -73,5 +75,8 @@ Made with ❤️ for Bangladesh by **Md. Asiqur Rahman Khan**
 <p align="center">
   <img src="docs/whatsapp_qr.png" alt="WhatsApp Contact QR" width="150"/>
 </p>
+
+
+
 
 

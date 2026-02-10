@@ -48,15 +48,15 @@ A complete OCR and face recognition solution for **Bangladeshi National ID cards
 
 ---
 
-## 🙌 Contributing
+## Contributing
 
-Feel free to fork the repo and submit pull requests. For major changes, open an issue to discuss the proposed update.
+This project is currently maintained by **Md. Asiqur Rahman Khan** as a solo developer. Feel free to fork the repo. For major ideas, please open an issue or reach out directly to discuss the proposed update.
 
 ---
 
 ## 📌 License
 
-This project is open-source under the [MIT License](LICENSE).
+This project is open-source under the [MIT License](LICENSE). If you find it helpful, you are always welcome to buy me a coffee.
 
 ---
 
@@ -73,3 +73,5 @@ Made with ❤️ for Bangladesh by **Md. Asiqur Rahman Khan**
 <p align="center">
   <img src="docs/whatsapp_qr.png" alt="WhatsApp Contact QR" width="150"/>
 </p>
+
+

@@ -58,7 +58,7 @@ This project is currently maintained by **Md. Asiqur Rahman Khan** as a solo dev
 
 This project is open-source under the [MIT License](LICENSE).
 
-**? If you find it helpful, consider buying me a coffee.**
+**If you find it helpful, consider buying me a coffee.**
 
 ---
 
